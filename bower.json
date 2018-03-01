@@ -1,0 +1,21 @@
+{
+  "name": "team_vp",
+  "homepage": "https://github.com/2018victor9ereira/2018aulas",
+  "authors": [
+    "vp.group20182@outlook.pt"
+  ],
+  "description": "aulas html",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
